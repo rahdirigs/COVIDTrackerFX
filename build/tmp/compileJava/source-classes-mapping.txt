@@ -1,0 +1,14 @@
+com/rahdirigs/DataFetch/models/GlobalDataModel.java
+ com.rahdirigs.DataFetch.models.GlobalDataModel
+com/rahdirigs/DataFetch/covidAPI.java
+ com.rahdirigs.DataFetch.covidAPI
+com/rahdirigs/DataFetch/models/CountryDataModel.java
+ com.rahdirigs.DataFetch.models.CountryDataModel
+com/rahdirigs/Main.java
+ com.rahdirigs.Main
+com/rahdirigs/DataFetch/DataFetchService.java
+ com.rahdirigs.DataFetch.DataFetchService
+ com.rahdirigs.DataFetch.DataFetchService$1
+ com.rahdirigs.DataFetch.DataFetchService$2
+com/rahdirigs/DataFetch/models/DataModel.java
+ com.rahdirigs.DataFetch.models.DataModel
